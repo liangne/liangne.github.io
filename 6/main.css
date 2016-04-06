@@ -1,0 +1,10 @@
+h1 {
+    font-family: "微软雅黑";
+    font-weight: 500;
+}
+
+p {
+    text-decoration: line-through;
+    color: red;
+    line-height: 1.5;
+}
